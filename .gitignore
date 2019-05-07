@@ -5,6 +5,6 @@ __pycache__/
 __pychache__/*.pyc
 topic_models/*
 db/*
-plots/*
+word_embeddings/*
 course_notes/*
 moby-chapter-pairs.csv
