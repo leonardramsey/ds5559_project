@@ -10,6 +10,7 @@ Created on Wed Dec 12 22:05:54 2018
 # %% Imports 
 
 import pandas as pd
+import sqlite3
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
@@ -198,6 +199,16 @@ def put_to_db(db, df, table_name, index=True, if_exists='replace'):
 def get_from_db(db, table_name):
     df = pd.read_sql("SELECT * FROM {}".format(table_name), db)
     return df
+
+def get_table(table, db_file, fields='*', index_col=None):
+    if type(fields) is list:
+        fields = ','.join(fields)
+    with sqlite3.connect(db_file) as db:
+        return pd.read_sql("select {} from {}".format(fields, table), db, index_col=index_col)
+
+def get_sql(sql, db_file, params=None):
+    with sqlite3.connect(db_file) as db:
+        return pd.read_sql(sql, db, params)
 
 # %% Test Scripts
 
