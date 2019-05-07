@@ -1,0 +1,843 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.20387692064977297" totalTokens="2953" titles="two, years, three, since, long, days, mary, last, ago, rest">
+	<word weight="0.024720623095157466" count="73">two</word>
+	<word weight="0.02302742973247545" count="68">years</word>
+	<word weight="0.02031832035218422" count="60">three</word>
+	<word weight="0.017947849644429394" count="53">since</word>
+	<word weight="0.016931933626820182" count="50">long</word>
+	<word weight="0.015577378936674569" count="46">days</word>
+	<word weight="0.014900101591601761" count="44">mary</word>
+	<word weight="0.014900101591601761" count="44">last</word>
+	<word weight="0.013206908228919742" count="39">ago</word>
+	<word weight="0.012529630883846935" count="37">rest</word>
+	<word weight="0.012529630883846935" count="37">minutes</word>
+	<word weight="0.011852353538774127" count="35">home</word>
+	<word weight="0.011513714866237725" count="34">first</word>
+	<word weight="0.011175076193701321" count="33">may</word>
+	<word weight="0.01015916017609211" count="30">five</word>
+	<word weight="0.009820521503555706" count="29">four</word>
+	<word weight="0.009143244158482899" count="27">twenty</word>
+	<word weight="0.009143244158482899" count="27">little</word>
+	<word weight="0.008804605485946495" count="26">months</word>
+	<word weight="0.008804605485946495" count="26">ten</word>
+	<phrase weight="0.013550135501355014" count="5">diana mary</phrase>
+	<phrase weight="0.01084010840108401" count="4">ere long</phrase>
+	<phrase weight="0.01084010840108401" count="4">five minutes</phrase>
+	<phrase weight="0.008130081300813009" count="3">three weeks ago</phrase>
+	<phrase weight="0.008130081300813009" count="3">two months</phrase>
+	<phrase weight="0.008130081300813009" count="3">twelve o'clock</phrase>
+	<phrase weight="0.008130081300813009" count="3">eight years</phrase>
+	<phrase weight="0.005420054200542005" count="2">four o'clock</phrase>
+	<phrase weight="0.005420054200542005" count="2">twenty thousand pounds</phrase>
+	<phrase weight="0.005420054200542005" count="2">fifteen years</phrase>
+	<phrase weight="0.005420054200542005" count="2">ten years</phrase>
+	<phrase weight="0.005420054200542005" count="2">last thursday</phrase>
+	<phrase weight="0.005420054200542005" count="2">years ago</phrase>
+	<phrase weight="0.005420054200542005" count="2">hundred miles</phrase>
+	<phrase weight="0.005420054200542005" count="2">minutes since</phrase>
+	<phrase weight="0.005420054200542005" count="2">thirty miles</phrase>
+	<phrase weight="0.005420054200542005" count="2">six years</phrase>
+	<phrase weight="0.005420054200542005" count="2">hours since</phrase>
+	<phrase weight="0.005420054200542005" count="2">fifty miles</phrase>
+	<phrase weight="0.005420054200542005" count="2">two three</phrase>
+  </topic>
+  <topic id="1" alpha="0.13429805580112358" totalTokens="2171" titles="little, child, girl, school, children, french, lowood, poor, girls, class">
+	<word weight="0.025333947489636112" count="55">little</word>
+	<word weight="0.024412713035467527" count="53">child</word>
+	<word weight="0.019345923537540305" count="42">girl</word>
+	<word weight="0.017964071856287425" count="39">school</word>
+	<word weight="0.01704283740211884" count="37">children</word>
+	<word weight="0.01427913403961308" count="31">french</word>
+	<word weight="0.013357899585444496" count="29">lowood</word>
+	<word weight="0.012897282358360202" count="28">poor</word>
+	<word weight="0.011515430677107323" count="25">girls</word>
+	<word weight="0.008751727314601566" count="19">class</word>
+	<word weight="0.00783049286043298" count="17">pupil</word>
+	<word weight="0.007369875633348687" count="16">teachers</word>
+	<word weight="0.006448641179180101" count="14">english</word>
+	<word weight="0.006448641179180101" count="14">together</word>
+	<word weight="0.005988023952095809" count="13">mademoiselle</word>
+	<word weight="0.005988023952095809" count="13">obliged</word>
+	<word weight="0.005988023952095809" count="13">kind</word>
+	<word weight="0.005988023952095809" count="13">sent</word>
+	<word weight="0.005988023952095809" count="13">age</word>
+	<word weight="0.005988023952095809" count="13">old</word>
+	<phrase weight="0.017094017094017096" count="4">madame pierrot</phrase>
+	<phrase weight="0.01282051282051282" count="3">school girl</phrase>
+	<phrase weight="0.01282051282051282" count="3">little girl</phrase>
+	<phrase weight="0.008547008547008548" count="2">playing billiards</phrase>
+	<phrase weight="0.008547008547008548" count="2">english education</phrase>
+	<phrase weight="0.004273504273504274" count="1">assiduous pupil</phrase>
+	<phrase weight="0.004273504273504274" count="1">younger urged</phrase>
+	<phrase weight="0.004273504273504274" count="1">taught elements grammar</phrase>
+	<phrase weight="0.004273504273504274" count="1">bad dreadful</phrase>
+	<phrase weight="0.004273504273504274" count="1">charged education</phrase>
+	<phrase weight="0.004273504273504274" count="1">girl child native</phrase>
+	<phrase weight="0.004273504273504274" count="1">comprised initials</phrase>
+	<phrase weight="0.004273504273504274" count="1">blooming younger girl</phrase>
+	<phrase weight="0.004273504273504274" count="1">liar narrative</phrase>
+	<phrase weight="0.004273504273504274" count="1">continual unnatural</phrase>
+	<phrase weight="0.004273504273504274" count="1">situation offered pupil little girl</phrase>
+	<phrase weight="0.004273504273504274" count="1">possible tongue falters</phrase>
+	<phrase weight="0.004273504273504274" count="1">sent charitable</phrase>
+	<phrase weight="0.004273504273504274" count="1">waistcoat ate</phrase>
+	<phrase weight="0.004273504273504274" count="1">old sent diseased</phrase>
+  </topic>
+  <topic id="2" alpha="0.27750155047933" totalTokens="3892" titles="must, shall, sir, may, say, let, away, right, know, come">
+	<word weight="0.03854059609455293" count="150">must</word>
+	<word weight="0.03211716341212744" count="125">shall</word>
+	<word weight="0.017728674203494346" count="69">sir</word>
+	<word weight="0.01593011305241521" count="62">may</word>
+	<word weight="0.014902363823227132" count="58">say</word>
+	<word weight="0.013360739979445015" count="52">let</word>
+	<word weight="0.012589928057553957" count="49">away</word>
+	<word weight="0.012589928057553957" count="49">right</word>
+	<word weight="0.011819116135662899" count="46">know</word>
+	<word weight="0.010277492291880781" count="40">come</word>
+	<word weight="0.010020554984583761" count="39">way</word>
+	<word weight="0.010020554984583761" count="39">might</word>
+	<word weight="0.009763617677286743" count="38">place</word>
+	<word weight="0.009763617677286743" count="38">better</word>
+	<word weight="0.009506680369989723" count="37">word</word>
+	<word weight="0.008992805755395683" count="35">make</word>
+	<word weight="0.008735868448098663" count="34">done</word>
+	<word weight="0.008478931140801645" count="33">get</word>
+	<word weight="0.008478931140801645" count="33">perhaps</word>
+	<word weight="0.007965056526207605" count="31">matter</word>
+	<phrase weight="0.004640371229698376" count="2">must seek</phrase>
+	<phrase weight="0.004640371229698376" count="2">sir interrupted</phrase>
+	<phrase weight="0.004640371229698376" count="2">mind sir</phrase>
+	<phrase weight="0.004640371229698376" count="2">call aunt</phrase>
+	<phrase weight="0.004640371229698376" count="2">place done</phrase>
+	<phrase weight="0.004640371229698376" count="2">better take</phrase>
+	<phrase weight="0.004640371229698376" count="2">must follow</phrase>
+	<phrase weight="0.004640371229698376" count="2">reader must</phrase>
+	<phrase weight="0.002320185614849188" count="1">expect reader intuitive</phrase>
+	<phrase weight="0.002320185614849188" count="1">higher man</phrase>
+	<phrase weight="0.002320185614849188" count="1">shall get better</phrase>
+	<phrase weight="0.002320185614849188" count="1">must forget word say</phrase>
+	<phrase weight="0.002320185614849188" count="1">sir plenty</phrase>
+	<phrase weight="0.002320185614849188" count="1">pay twice</phrase>
+	<phrase weight="0.002320185614849188" count="1">relief want</phrase>
+	<phrase weight="0.002320185614849188" count="1">humblest members</phrase>
+	<phrase weight="0.002320185614849188" count="1">otherwise leisure</phrase>
+	<phrase weight="0.002320185614849188" count="1">must must</phrase>
+	<phrase weight="0.002320185614849188" count="1">endeavours secure</phrase>
+	<phrase weight="0.002320185614849188" count="1">might escape</phrase>
+  </topic>
+  <topic id="3" alpha="0.24401020518556593" totalTokens="4624" titles="room, door, fire, stood, table, bed, back, window, opened, near">
+	<word weight="0.03330449826989619" count="154">room</word>
+	<word weight="0.025086505190311418" count="116">door</word>
+	<word weight="0.023356401384083045" count="108">fire</word>
+	<word weight="0.01513840830449827" count="70">stood</word>
+	<word weight="0.014057093425605537" count="65">table</word>
+	<word weight="0.013624567474048443" count="63">bed</word>
+	<word weight="0.012759515570934256" count="59">back</word>
+	<word weight="0.010164359861591695" count="47">window</word>
+	<word weight="0.010164359861591695" count="47">opened</word>
+	<word weight="0.009948096885813149" count="46">near</word>
+	<word weight="0.009515570934256055" count="44">two</word>
+	<word weight="0.008866782006920416" count="41">chair</word>
+	<word weight="0.00865051903114187" count="40">looked</word>
+	<word weight="0.00865051903114187" count="40">round</word>
+	<word weight="0.008434256055363323" count="39">great</word>
+	<word weight="0.008217993079584774" count="38">left</word>
+	<word weight="0.008001730103806228" count="37">side</word>
+	<word weight="0.008001730103806228" count="37">sat</word>
+	<word weight="0.007352941176470588" count="34">open</word>
+	<word weight="0.007352941176470588" count="34">light</word>
+	<phrase weight="0.010309278350515464" count="6">red room</phrase>
+	<phrase weight="0.006872852233676976" count="4">third storey</phrase>
+	<phrase weight="0.006872852233676976" count="4">window seat</phrase>
+	<phrase weight="0.005154639175257732" count="3">dining room</phrase>
+	<phrase weight="0.003436426116838488" count="2">opened door</phrase>
+	<phrase weight="0.003436426116838488" count="2">toilet tables</phrase>
+	<phrase weight="0.003436426116838488" count="2">schoolroom window</phrase>
+	<phrase weight="0.003436426116838488" count="2">door open</phrase>
+	<phrase weight="0.003436426116838488" count="2">open door</phrase>
+	<phrase weight="0.003436426116838488" count="2">back chair</phrase>
+	<phrase weight="0.003436426116838488" count="2">window curtains</phrase>
+	<phrase weight="0.003436426116838488" count="2">stairs gallery</phrase>
+	<phrase weight="0.003436426116838488" count="2">filled two</phrase>
+	<phrase weight="0.003436426116838488" count="2">near door</phrase>
+	<phrase weight="0.003436426116838488" count="2">left open</phrase>
+	<phrase weight="0.003436426116838488" count="2">portion house</phrase>
+	<phrase weight="0.003436426116838488" count="2">drawing room</phrase>
+	<phrase weight="0.003436426116838488" count="2">fire lit</phrase>
+	<phrase weight="0.001718213058419244" count="1">curtain swept back arch</phrase>
+	<phrase weight="0.001718213058419244" count="1">attics burning</phrase>
+  </topic>
+  <topic id="4" alpha="0.15362068452525973" totalTokens="2178" titles="took, enough, kept, manner, silence, passed, certain, usual, began, subject">
+	<word weight="0.01790633608815427" count="39">took</word>
+	<word weight="0.015151515151515152" count="33">enough</word>
+	<word weight="0.014692378328741965" count="32">kept</word>
+	<word weight="0.014692378328741965" count="32">manner</word>
+	<word weight="0.014233241505968778" count="31">silence</word>
+	<word weight="0.013774104683195593" count="30">passed</word>
+	<word weight="0.012855831037649219" count="28">certain</word>
+	<word weight="0.011937557392102846" count="26">usual</word>
+	<word weight="0.010560146923783287" count="23">began</word>
+	<word weight="0.010560146923783287" count="23">subject</word>
+	<word weight="0.010560146923783287" count="23">sometimes</word>
+	<word weight="0.010101010101010102" count="22">given</word>
+	<word weight="0.009641873278236915" count="21">mean</word>
+	<word weight="0.009641873278236915" count="21">upon</word>
+	<word weight="0.009641873278236915" count="21">another</word>
+	<word weight="0.009182736455463728" count="20">notice</word>
+	<word weight="0.008264462809917356" count="18">able</word>
+	<word weight="0.008264462809917356" count="18">made</word>
+	<word weight="0.007805325987144169" count="17">stranger</word>
+	<word weight="0.0073461891643709825" count="16">reading</word>
+	<phrase weight="0.009433962264150943" count="2">celine varens</phrase>
+	<phrase weight="0.0047169811320754715" count="1">sewing reading writing</phrase>
+	<phrase weight="0.0047169811320754715" count="1">vague hopelessly</phrase>
+	<phrase weight="0.0047169811320754715" count="1">marrying certain</phrase>
+	<phrase weight="0.0047169811320754715" count="1">paused sewing</phrase>
+	<phrase weight="0.0047169811320754715" count="1">communicated certain</phrase>
+	<phrase weight="0.0047169811320754715" count="1">passed celine</phrase>
+	<phrase weight="0.0047169811320754715" count="1">encourage accomplish</phrase>
+	<phrase weight="0.0047169811320754715" count="1">able hereafter</phrase>
+	<phrase weight="0.0047169811320754715" count="1">cise usual</phrase>
+	<phrase weight="0.0047169811320754715" count="1">book offering</phrase>
+	<phrase weight="0.0047169811320754715" count="1">message preceded</phrase>
+	<phrase weight="0.0047169811320754715" count="1">took paper</phrase>
+	<phrase weight="0.0047169811320754715" count="1">murmur mon</phrase>
+	<phrase weight="0.0047169811320754715" count="1">subject manner</phrase>
+	<phrase weight="0.0047169811320754715" count="1">naples florence</phrase>
+	<phrase weight="0.0047169811320754715" count="1">stretched contrary direction</phrase>
+	<phrase weight="0.0047169811320754715" count="1">saying scorned</phrase>
+	<phrase weight="0.0047169811320754715" count="1">wondered continued</phrase>
+	<phrase weight="0.0047169811320754715" count="1">strikes terror</phrase>
+  </topic>
+  <topic id="5" alpha="0.15524878381105792" totalTokens="2730" titles="head, put, hands, feet, little, dress, round, black, face, almost">
+	<word weight="0.026373626373626374" count="72">head</word>
+	<word weight="0.01575091575091575" count="43">put</word>
+	<word weight="0.014285714285714285" count="39">hands</word>
+	<word weight="0.01282051282051282" count="35">feet</word>
+	<word weight="0.012454212454212455" count="34">little</word>
+	<word weight="0.012087912087912088" count="33">dress</word>
+	<word weight="0.012087912087912088" count="33">round</word>
+	<word weight="0.011355311355311355" count="31">black</word>
+	<word weight="0.01098901098901099" count="30">face</word>
+	<word weight="0.010622710622710623" count="29">almost</word>
+	<word weight="0.010622710622710623" count="29">dressed</word>
+	<word weight="0.010622710622710623" count="29">book</word>
+	<word weight="0.010256410256410256" count="28">arms</word>
+	<word weight="0.009523809523809525" count="26">stood</word>
+	<word weight="0.009523809523809525" count="26">arm</word>
+	<word weight="0.008791208791208791" count="24">bonnet</word>
+	<word weight="0.00805860805860806" count="22">took</word>
+	<word weight="0.00805860805860806" count="22">looked</word>
+	<word weight="0.007692307692307693" count="21">gold</word>
+	<word weight="0.007692307692307693" count="21">knee</word>
+	<phrase weight="0.005747126436781609" count="2">arms round</phrase>
+	<phrase weight="0.005747126436781609" count="2">wedding dress</phrase>
+	<phrase weight="0.005747126436781609" count="2">put bonnet</phrase>
+	<phrase weight="0.005747126436781609" count="2">head knee</phrase>
+	<phrase weight="0.005747126436781609" count="2">lifted head</phrase>
+	<phrase weight="0.005747126436781609" count="2">pearl necklace</phrase>
+	<phrase weight="0.0028735632183908046" count="1">raised head suddenly</phrase>
+	<phrase weight="0.0028735632183908046" count="1">dress scarf</phrase>
+	<phrase weight="0.0028735632183908046" count="1">washed face</phrase>
+	<phrase weight="0.0028735632183908046" count="1">took arms</phrase>
+	<phrase weight="0.0028735632183908046" count="1">gown widow cap frigid</phrase>
+	<phrase weight="0.0028735632183908046" count="1">arms rested head</phrase>
+	<phrase weight="0.0028735632183908046" count="1">magnificently dressed</phrase>
+	<phrase weight="0.0028735632183908046" count="1">knee feet</phrase>
+	<phrase weight="0.0028735632183908046" count="1">cap black velvet</phrase>
+	<phrase weight="0.0028735632183908046" count="1">ornament pearl brooch soon</phrase>
+	<phrase weight="0.0028735632183908046" count="1">merely sitting</phrase>
+	<phrase weight="0.0028735632183908046" count="1">emerged closet took</phrase>
+	<phrase weight="0.0028735632183908046" count="1">sentence attitude</phrase>
+	<phrase weight="0.0028735632183908046" count="1">groups wrapping</phrase>
+  </topic>
+  <topic id="6" alpha="0.31259377000848126" totalTokens="4886" titles="house, rochester, hall, leave, room, long, thornfield, come, bessie, morning">
+	<word weight="0.01760130986492018" count="86">house</word>
+	<word weight="0.016987310683585756" count="83">rochester</word>
+	<word weight="0.014735980352026197" count="72">hall</word>
+	<word weight="0.014326647564469915" count="70">leave</word>
+	<word weight="0.013507981989357348" count="66">room</word>
+	<word weight="0.013098649201801064" count="64">long</word>
+	<word weight="0.012893982808022923" count="63">thornfield</word>
+	<word weight="0.012075317232910356" count="59">come</word>
+	<word weight="0.01125665165779779" count="55">bessie</word>
+	<word weight="0.01125665165779779" count="55">morning</word>
+	<word weight="0.01125665165779779" count="55">came</word>
+	<word weight="0.010642652476463364" count="52">went</word>
+	<word weight="0.010437986082685223" count="51">away</word>
+	<word weight="0.010233319688907082" count="50">till</word>
+	<word weight="0.01002865329512894" count="49">place</word>
+	<word weight="0.01002865329512894" count="49">got</word>
+	<word weight="0.009823986901350798" count="48">night</word>
+	<word weight="0.009414654113794515" count="46">return</word>
+	<word weight="0.009414654113794515" count="46">quite</word>
+	<word weight="0.009209987720016374" count="45">gone</word>
+	<phrase weight="0.012089810017271158" count="7">thornfield hall</phrase>
+	<phrase weight="0.0051813471502590676" count="3">servants hall</phrase>
+	<phrase weight="0.0034542314335060447" count="2">wish leave</phrase>
+	<phrase weight="0.0034542314335060447" count="2">night gone</phrase>
+	<phrase weight="0.0034542314335060447" count="2">breakfast room</phrase>
+	<phrase weight="0.0034542314335060447" count="2">old hall</phrase>
+	<phrase weight="0.0034542314335060447" count="2">next morning</phrase>
+	<phrase weight="0.0034542314335060447" count="2">post office</phrase>
+	<phrase weight="0.0017271157167530224" count="1">morning saw</phrase>
+	<phrase weight="0.0017271157167530224" count="1">exhibit contents gentlemen went away early attend public</phrase>
+	<phrase weight="0.0017271157167530224" count="1">precincts thornfield hall</phrase>
+	<phrase weight="0.0017271157167530224" count="1">thus formally summoned rochester</phrase>
+	<phrase weight="0.0017271157167530224" count="1">retained post</phrase>
+	<phrase weight="0.0017271157167530224" count="1">old stock john</phrase>
+	<phrase weight="0.0017271157167530224" count="1">next fortnight</phrase>
+	<phrase weight="0.0017271157167530224" count="1">gone back</phrase>
+	<phrase weight="0.0017271157167530224" count="1">reflected long</phrase>
+	<phrase weight="0.0017271157167530224" count="1">return library stopped</phrase>
+	<phrase weight="0.0017271157167530224" count="1">wanted breakfast</phrase>
+	<phrase weight="0.0017271157167530224" count="1">trunk carried evening</phrase>
+  </topic>
+  <topic id="7" alpha="0.2047469601687208" totalTokens="3107" titles="john, never, wife, man, good, life, house, married, father, death">
+	<word weight="0.028644995172191826" count="89">john</word>
+	<word weight="0.025426456388799486" count="79">never</word>
+	<word weight="0.021242355970389443" count="66">wife</word>
+	<word weight="0.016736401673640166" count="52">man</word>
+	<word weight="0.014161570646926296" count="44">good</word>
+	<word weight="0.013196009011908594" count="41">life</word>
+	<word weight="0.012874155133569359" count="40">house</word>
+	<word weight="0.012552301255230125" count="39">married</word>
+	<word weight="0.012552301255230125" count="39">father</word>
+	<word weight="0.011586739620212423" count="36">death</word>
+	<word weight="0.01126488574187319" count="35">love</word>
+	<word weight="0.010943031863533955" count="34">mother</word>
+	<word weight="0.010621177985194722" count="33">rivers</word>
+	<word weight="0.009977470228516253" count="31">brother</word>
+	<word weight="0.009977470228516253" count="31">quite</word>
+	<word weight="0.00965561635017702" count="30">family</word>
+	<word weight="0.00965561635017702" count="30">husband</word>
+	<word weight="0.009333762471837787" count="29">marry</word>
+	<word weight="0.008368200836820083" count="26">marriage</word>
+	<word weight="0.008368200836820083" count="26">lived</word>
+	<phrase weight="0.009375" count="3">john wife</phrase>
+	<phrase weight="0.00625" count="2">wish good</phrase>
+	<phrase weight="0.00625" count="2">rosamond oliver</phrase>
+	<phrase weight="0.00625" count="2">house except</phrase>
+	<phrase weight="0.00625" count="2">accession fortune</phrase>
+	<phrase weight="0.00625" count="2">john never</phrase>
+	<phrase weight="0.00625" count="2">married man</phrase>
+	<phrase weight="0.003125" count="1">disgusting secret</phrase>
+	<phrase weight="0.003125" count="1">son poor</phrase>
+	<phrase weight="0.003125" count="1">oppose match</phrase>
+	<phrase weight="0.003125" count="1">together cousin commence matters different</phrase>
+	<phrase weight="0.003125" count="1">verily believe</phrase>
+	<phrase weight="0.003125" count="1">never bear</phrase>
+	<phrase weight="0.003125" count="1">brother attainments</phrase>
+	<phrase weight="0.003125" count="1">wretched sister</phrase>
+	<phrase weight="0.003125" count="1">health estate</phrase>
+	<phrase weight="0.003125" count="1">losing valued treasure</phrase>
+	<phrase weight="0.003125" count="1">interim shall</phrase>
+	<phrase weight="0.003125" count="1">related rochesters mother</phrase>
+	<phrase weight="0.003125" count="1">profession lulled</phrase>
+  </topic>
+  <topic id="8" alpha="0.21748273699437995" totalTokens="3363" titles="night, half, last, hour, fell, near, door, saw, long, morning">
+	<word weight="0.03776390127862028" count="127">night</word>
+	<word weight="0.01992268807612251" count="67">half</word>
+	<word weight="0.015165031222123104" count="51">last</word>
+	<word weight="0.013975617008623252" count="47">hour</word>
+	<word weight="0.013083556348498365" count="44">fell</word>
+	<word weight="0.012786202795123401" count="43">near</word>
+	<word weight="0.012488849241748439" count="42">door</word>
+	<word weight="0.011894142134998514" count="40">saw</word>
+	<word weight="0.01159678858162355" count="39">long</word>
+	<word weight="0.01159678858162355" count="39">morning</word>
+	<word weight="0.010704727921498661" count="36">found</word>
+	<word weight="0.010110020814748736" count="34">fast</word>
+	<word weight="0.009812667261373774" count="33">close</word>
+	<word weight="0.00951531370799881" count="32">away</word>
+	<word weight="0.009217960154623847" count="31">way</word>
+	<word weight="0.008920606601248885" count="30">still</word>
+	<word weight="0.008920606601248885" count="30">silent</word>
+	<word weight="0.008920606601248885" count="30">cold</word>
+	<word weight="0.008623253047873923" count="29">however</word>
+	<word weight="0.008623253047873923" count="29">coming</word>
+	<phrase weight="0.005194805194805195" count="2">rang bell</phrase>
+	<phrase weight="0.005194805194805195" count="2">travelling garb</phrase>
+	<phrase weight="0.005194805194805195" count="2">drew near</phrase>
+	<phrase weight="0.005194805194805195" count="2">walked fast</phrase>
+	<phrase weight="0.005194805194805195" count="2">half hour</phrase>
+	<phrase weight="0.005194805194805195" count="2">horse chestnut</phrase>
+	<phrase weight="0.0025974025974025974" count="1">hay orchard</phrase>
+	<phrase weight="0.0025974025974025974" count="1">might die</phrase>
+	<phrase weight="0.0025974025974025974" count="1">quench flames</phrase>
+	<phrase weight="0.0025974025974025974" count="1">rochester sat hour</phrase>
+	<phrase weight="0.0025974025974025974" count="1">coming walk</phrase>
+	<phrase weight="0.0025974025974025974" count="1">recurrence image grew</phrase>
+	<phrase weight="0.0025974025974025974" count="1">windings unknown</phrase>
+	<phrase weight="0.0025974025974025974" count="1">presence however</phrase>
+	<phrase weight="0.0025974025974025974" count="1">running door</phrase>
+	<phrase weight="0.0025974025974025974" count="1">hour struck</phrase>
+	<phrase weight="0.0025974025974025974" count="1">close vision still</phrase>
+	<phrase weight="0.0025974025974025974" count="1">warning near</phrase>
+	<phrase weight="0.0025974025974025974" count="1">window curtain</phrase>
+	<phrase weight="0.0025974025974025974" count="1">remnant roll</phrase>
+  </topic>
+  <topic id="9" alpha="0.17349602391702174" totalTokens="2854" titles="life, might, never, new, hope, world, heart, even, spirit, first">
+	<word weight="0.030133146461107218" count="86">life</word>
+	<word weight="0.01751927119831815" count="50">might</word>
+	<word weight="0.017168885774351786" count="49">never</word>
+	<word weight="0.016818500350385426" count="48">new</word>
+	<word weight="0.015066573230553609" count="43">hope</word>
+	<word weight="0.015066573230553609" count="43">world</word>
+	<word weight="0.014716187806587245" count="42">heart</word>
+	<word weight="0.01401541695865452" count="40">even</word>
+	<word weight="0.01401541695865452" count="40">spirit</word>
+	<word weight="0.01051156271899089" count="30">first</word>
+	<word weight="0.010161177295024528" count="29">god</word>
+	<word weight="0.009810791871058164" count="28">mind</word>
+	<word weight="0.009110021023125438" count="26">existence</word>
+	<word weight="0.009110021023125438" count="26">hour</word>
+	<word weight="0.00805886475122635" count="23">change</word>
+	<word weight="0.00805886475122635" count="23">look</word>
+	<word weight="0.007708479327259986" count="22">flesh</word>
+	<word weight="0.007358093903293623" count="21">wild</word>
+	<word weight="0.007358093903293623" count="21">rise</word>
+	<word weight="0.007358093903293623" count="21">strange</word>
+	<phrase weight="0.0064516129032258064" count="2">wild beast</phrase>
+	<phrase weight="0.0032258064516129032" count="1">wild delight</phrase>
+	<phrase weight="0.0032258064516129032" count="1">firmer trust powers</phrase>
+	<phrase weight="0.0032258064516129032" count="1">revisiting earth punish perjured</phrase>
+	<phrase weight="0.0032258064516129032" count="1">instigated strange</phrase>
+	<phrase weight="0.0032258064516129032" count="1">waters floods</phrase>
+	<phrase weight="0.0032258064516129032" count="1">reared due sense</phrase>
+	<phrase weight="0.0032258064516129032" count="1">youth spirit follows willing</phrase>
+	<phrase weight="0.0032258064516129032" count="1">sense dreary</phrase>
+	<phrase weight="0.0032258064516129032" count="1">bliss rose</phrase>
+	<phrase weight="0.0032258064516129032" count="1">actual world</phrase>
+	<phrase weight="0.0032258064516129032" count="1">god change give new</phrase>
+	<phrase weight="0.0032258064516129032" count="1">evil evil existent</phrase>
+	<phrase weight="0.0032258064516129032" count="1">anywhere pricked</phrase>
+	<phrase weight="0.0032258064516129032" count="1">lonely life</phrase>
+	<phrase weight="0.0032258064516129032" count="1">last mighty victories lamb</phrase>
+	<phrase weight="0.0032258064516129032" count="1">heart worthy</phrase>
+	<phrase weight="0.0032258064516129032" count="1">forlorn hope</phrase>
+	<phrase weight="0.0032258064516129032" count="1">clime form new</phrase>
+	<phrase weight="0.0032258064516129032" count="1">faithful heart</phrase>
+  </topic>
+  <topic id="10" alpha="0.138061779252081" totalTokens="2233" titles="bread, water, little, take, two, helen, tea, cold, burns, find">
+	<word weight="0.01701746529332736" count="38">bread</word>
+	<word weight="0.0161218092252575" count="36">water</word>
+	<word weight="0.0161218092252575" count="36">little</word>
+	<word weight="0.01522615315718764" count="34">take</word>
+	<word weight="0.012091356918943126" count="27">two</word>
+	<word weight="0.011643528884908196" count="26">helen</word>
+	<word weight="0.010747872816838333" count="24">tea</word>
+	<word weight="0.010747872816838333" count="24">cold</word>
+	<word weight="0.009852216748768473" count="22">burns</word>
+	<word weight="0.009852216748768473" count="22">find</word>
+	<word weight="0.008956560680698611" count="20">nursery</word>
+	<word weight="0.00850873264666368" count="19">another</word>
+	<word weight="0.00806090461262875" count="18">got</word>
+	<word weight="0.007165248544558889" count="16">taken</word>
+	<word weight="0.007165248544558889" count="16">half</word>
+	<word weight="0.006717420510523959" count="15">taste</word>
+	<word weight="0.006717420510523959" count="15">breakfast</word>
+	<word weight="0.006717420510523959" count="15">hot</word>
+	<word weight="0.006717420510523959" count="15">brought</word>
+	<word weight="0.006269592476489028" count="14">lips</word>
+	<phrase weight="0.028112449799196786" count="7">helen burns</phrase>
+	<phrase weight="0.01606425702811245" count="4">glass water</phrase>
+	<phrase weight="0.004016064257028112" count="1">substitute gratification</phrase>
+	<phrase weight="0.004016064257028112" count="1">placed cup tea delicious thin morsel toast got unlocked drawer taking parcel wrapped paper</phrase>
+	<phrase weight="0.004016064257028112" count="1">burn bed</phrase>
+	<phrase weight="0.004016064257028112" count="1">tired helen burns</phrase>
+	<phrase weight="0.004016064257028112" count="1">eat circlet delicate pastry</phrase>
+	<phrase weight="0.004016064257028112" count="1">study workings system find half</phrase>
+	<phrase weight="0.004016064257028112" count="1">worse haunted</phrase>
+	<phrase weight="0.004016064257028112" count="1">half comprehended</phrase>
+	<phrase weight="0.004016064257028112" count="1">got bread</phrase>
+	<phrase weight="0.004016064257028112" count="1">water mug</phrase>
+	<phrase weight="0.004016064257028112" count="1">got mess burnt porridge</phrase>
+	<phrase weight="0.004016064257028112" count="1">shelter cold</phrase>
+	<phrase weight="0.004016064257028112" count="1">burns asked</phrase>
+	<phrase weight="0.004016064257028112" count="1">find another</phrase>
+	<phrase weight="0.004016064257028112" count="1">bed past</phrase>
+	<phrase weight="0.004016064257028112" count="1">interesting interesting</phrase>
+	<phrase weight="0.004016064257028112" count="1">take boiled milk bread</phrase>
+	<phrase weight="0.004016064257028112" count="1">nursery dear</phrase>
+  </topic>
+  <topic id="11" alpha="0.18854563377565106" totalTokens="2954" titles="heart, much, thought, feelings, power, ever, man, less, made, good">
+	<word weight="0.02132701421800948" count="63">heart</word>
+	<word weight="0.016926201760324982" count="50">much</word>
+	<word weight="0.013879485443466486" count="41">thought</word>
+	<word weight="0.013540961408259987" count="40">feelings</word>
+	<word weight="0.012863913337846988" count="38">power</word>
+	<word weight="0.012525389302640487" count="37">ever</word>
+	<word weight="0.012186865267433988" count="36">man</word>
+	<word weight="0.01117129316181449" count="33">less</word>
+	<word weight="0.010832769126607989" count="32">though</word>
+	<word weight="0.010832769126607989" count="32">made</word>
+	<word weight="0.010832769126607989" count="32">good</word>
+	<word weight="0.01049424509140149" count="31">part</word>
+	<word weight="0.009478672985781991" count="28">either</word>
+	<word weight="0.009478672985781991" count="28">sense</word>
+	<word weight="0.008463100880162491" count="25">liberty</word>
+	<word weight="0.008124576844955992" count="24">gave</word>
+	<word weight="0.007786052809749492" count="23">look</word>
+	<word weight="0.007786052809749492" count="23">truth</word>
+	<word weight="0.007447528774542992" count="22">hard</word>
+	<word weight="0.007447528774542992" count="22">sure</word>
+	<phrase weight="0.010033444816053512" count="3">much less</phrase>
+	<phrase weight="0.006688963210702341" count="2">power inflict</phrase>
+	<phrase weight="0.006688963210702341" count="2">felt sure</phrase>
+	<phrase weight="0.0033444816053511705" count="1">conceive match</phrase>
+	<phrase weight="0.0033444816053511705" count="1">duty man forgive</phrase>
+	<phrase weight="0.0033444816053511705" count="1">favoured lively</phrase>
+	<phrase weight="0.0033444816053511705" count="1">part often wished</phrase>
+	<phrase weight="0.0033444816053511705" count="1">common sense</phrase>
+	<phrase weight="0.0033444816053511705" count="1">bosoms consequently ever</phrase>
+	<phrase weight="0.0033444816053511705" count="1">heart moderate</phrase>
+	<phrase weight="0.0033444816053511705" count="1">felt interval</phrase>
+	<phrase weight="0.0033444816053511705" count="1">struggles arguments used get</phrase>
+	<phrase weight="0.0033444816053511705" count="1">restricted rule</phrase>
+	<phrase weight="0.0033444816053511705" count="1">soul buy</phrase>
+	<phrase weight="0.0033444816053511705" count="1">imperturbably much</phrase>
+	<phrase weight="0.0033444816053511705" count="1">idolatrous devotion</phrase>
+	<phrase weight="0.0033444816053511705" count="1">cant prop</phrase>
+	<phrase weight="0.0033444816053511705" count="1">claimed given</phrase>
+	<phrase weight="0.0033444816053511705" count="1">man burst</phrase>
+	<phrase weight="0.0033444816053511705" count="1">rochester angry natural tears shed</phrase>
+  </topic>
+  <topic id="12" alpha="0.15909268893872827" totalTokens="2374" titles="love, pleasure, best, always, well, self, true, thing, alone, loved">
+	<word weight="0.02990732940185341" count="71">love</word>
+	<word weight="0.020219039595619208" count="48">pleasure</word>
+	<word weight="0.013479359730412805" count="32">best</word>
+	<word weight="0.012636899747262006" count="30">always</word>
+	<word weight="0.012636899747262006" count="30">well</word>
+	<word weight="0.012215669755686605" count="29">self</word>
+	<word weight="0.010951979780960405" count="26">true</word>
+	<word weight="0.010951979780960405" count="26">thing</word>
+	<word weight="0.010109519797809604" count="24">alone</word>
+	<word weight="0.009688289806234204" count="23">loved</word>
+	<word weight="0.009688289806234204" count="23">kind</word>
+	<word weight="0.009688289806234204" count="23">thus</word>
+	<word weight="0.008845829823083403" count="21">past</word>
+	<word weight="0.008845829823083403" count="21">state</word>
+	<word weight="0.008845829823083403" count="21">often</word>
+	<word weight="0.008424599831508003" count="20">human</word>
+	<word weight="0.008003369839932602" count="19">living</word>
+	<word weight="0.008003369839932602" count="19">pity</word>
+	<word weight="0.007582139848357203" count="18">affection</word>
+	<word weight="0.007160909856781803" count="17">respect</word>
+	<phrase weight="0.011278195488721804" count="3">self respect</phrase>
+	<phrase weight="0.007518796992481203" count="2">well loved</phrase>
+	<phrase weight="0.007518796992481203" count="2">glorious thing</phrase>
+	<phrase weight="0.007518796992481203" count="2">truly love</phrase>
+	<phrase weight="0.007518796992481203" count="2">human beings</phrase>
+	<phrase weight="0.007518796992481203" count="2">witty original</phrase>
+	<phrase weight="0.0037593984962406013" count="1">results best</phrase>
+	<phrase weight="0.0037593984962406013" count="1">pleasure arising perfect</phrase>
+	<phrase weight="0.0037593984962406013" count="1">spiritual edification</phrase>
+	<phrase weight="0.0037593984962406013" count="1">sympathy dejection</phrase>
+	<phrase weight="0.0037593984962406013" count="1">well remembered</phrase>
+	<phrase weight="0.0037593984962406013" count="1">scrubbing setting</phrase>
+	<phrase weight="0.0037593984962406013" count="1">affection thing sympathise amongst heterogeneous thing opposed</phrase>
+	<phrase weight="0.0037593984962406013" count="1">fears aid</phrase>
+	<phrase weight="0.0037593984962406013" count="1">kind natured</phrase>
+	<phrase weight="0.0037593984962406013" count="1">constancy fellow soldier</phrase>
+	<phrase weight="0.0037593984962406013" count="1">pleasure unimparted</phrase>
+	<phrase weight="0.0037593984962406013" count="1">heap propped</phrase>
+	<phrase weight="0.0037593984962406013" count="1">living thing</phrase>
+	<phrase weight="0.0037593984962406013" count="1">always rather</phrase>
+  </topic>
+  <topic id="13" alpha="0.1831104098339954" totalTokens="3204" titles="face, eyes, looked, hair, features, black, dark, appeared, pale, looking">
+	<word weight="0.03932584269662921" count="126">face</word>
+	<word weight="0.03433208489388265" count="110">eyes</word>
+	<word weight="0.016853932584269662" count="54">eye</word>
+	<word weight="0.016853932584269662" count="54">looked</word>
+	<word weight="0.01466916354556804" count="47">hair</word>
+	<word weight="0.013108614232209739" count="42">features</word>
+	<word weight="0.011548064918851436" count="37">black</word>
+	<word weight="0.010299625468164793" count="33">dark</word>
+	<word weight="0.009363295880149813" count="30">appeared</word>
+	<word weight="0.009363295880149813" count="30">pale</word>
+	<word weight="0.009051186017478152" count="29">looking</word>
+	<word weight="0.008426966292134831" count="27">still</word>
+	<word weight="0.008426966292134831" count="27">long</word>
+	<word weight="0.008114856429463172" count="26">countenance</word>
+	<word weight="0.008114856429463172" count="26">tall</word>
+	<word weight="0.008114856429463172" count="26">large</word>
+	<word weight="0.007802746566791511" count="25">fine</word>
+	<word weight="0.00749063670411985" count="24">forehead</word>
+	<word weight="0.00749063670411985" count="24">neither</word>
+	<word weight="0.00717852684144819" count="23">strong</word>
+	<phrase weight="0.0049382716049382715" count="2">fair face</phrase>
+	<phrase weight="0.0049382716049382715" count="2">dazzled eyes</phrase>
+	<phrase weight="0.0049382716049382715" count="2">face changed</phrase>
+	<phrase weight="0.0024691358024691358" count="1">lips soft curl tresses deeper</phrase>
+	<phrase weight="0.0024691358024691358" count="1">flushed strong</phrase>
+	<phrase weight="0.0024691358024691358" count="1">cheeks golden curls</phrase>
+	<phrase weight="0.0024691358024691358" count="1">pale bloodless</phrase>
+	<phrase weight="0.0024691358024691358" count="1">still remained</phrase>
+	<phrase weight="0.0024691358024691358" count="1">chin large prominent mouth nose</phrase>
+	<phrase weight="0.0024691358024691358" count="1">long veil</phrase>
+	<phrase weight="0.0024691358024691358" count="1">looked fierce face</phrase>
+	<phrase weight="0.0024691358024691358" count="1">hat looking</phrase>
+	<phrase weight="0.0024691358024691358" count="1">neither fine colour</phrase>
+	<phrase weight="0.0024691358024691358" count="1">sorrow athletic</phrase>
+	<phrase weight="0.0024691358024691358" count="1">straight face naturally pale</phrase>
+	<phrase weight="0.0024691358024691358" count="1">saw face</phrase>
+	<phrase weight="0.0024691358024691358" count="1">temples hair dark brown clustered</phrase>
+	<phrase weight="0.0024691358024691358" count="1">black face</phrase>
+	<phrase weight="0.0024691358024691358" count="1">beheld expression smile</phrase>
+	<phrase weight="0.0024691358024691358" count="1">saw dark</phrase>
+  </topic>
+  <topic id="14" alpha="0.20467047137362676" totalTokens="3284" titles="voice, without, seemed, heard, words, something, sort, nothing, came, tone">
+	<word weight="0.027405602923264313" count="90">voice</word>
+	<word weight="0.02710109622411693" count="89">without</word>
+	<word weight="0.020706455542021926" count="68">seemed</word>
+	<word weight="0.020097442143727162" count="66">heard</word>
+	<word weight="0.020097442143727162" count="66">words</word>
+	<word weight="0.017965895249695493" count="59">something</word>
+	<word weight="0.015225334957369063" count="50">hear</word>
+	<word weight="0.014007308160779537" count="46">sort</word>
+	<word weight="0.012180267965895249" count="40">nothing</word>
+	<word weight="0.011571254567600487" count="38">came</word>
+	<word weight="0.011266747868453105" count="37">tone</word>
+	<word weight="0.011266747868453105" count="37">strange</word>
+	<word weight="0.008830694275274055" count="29">answer</word>
+	<word weight="0.008830694275274055" count="29">eyes</word>
+	<word weight="0.008526187576126675" count="28">low</word>
+	<word weight="0.008221680876979293" count="27">rochester</word>
+	<word weight="0.008221680876979293" count="27">sound</word>
+	<word weight="0.007917174177831911" count="26">expected</word>
+	<word weight="0.007917174177831911" count="26">ear</word>
+	<word weight="0.007612667478684531" count="25">spoke</word>
+	<phrase weight="0.005361930294906166" count="2">something sort</phrase>
+	<phrase weight="0.005361930294906166" count="2">speaking low</phrase>
+	<phrase weight="0.005361930294906166" count="2">without word</phrase>
+	<phrase weight="0.005361930294906166" count="2">without delay</phrase>
+	<phrase weight="0.005361930294906166" count="2">without speaking</phrase>
+	<phrase weight="0.002680965147453083" count="1">forced accept</phrase>
+	<phrase weight="0.002680965147453083" count="1">pain hearing woes</phrase>
+	<phrase weight="0.002680965147453083" count="1">answer sound</phrase>
+	<phrase weight="0.002680965147453083" count="1">something forced stiff</phrase>
+	<phrase weight="0.002680965147453083" count="1">lips seemed listen</phrase>
+	<phrase weight="0.002680965147453083" count="1">sort tribute</phrase>
+	<phrase weight="0.002680965147453083" count="1">low tone</phrase>
+	<phrase weight="0.002680965147453083" count="1">expected guest</phrase>
+	<phrase weight="0.002680965147453083" count="1">catch fever</phrase>
+	<phrase weight="0.002680965147453083" count="1">understood senses</phrase>
+	<phrase weight="0.002680965147453083" count="1">opera mistresses</phrase>
+	<phrase weight="0.002680965147453083" count="1">sounded sentence pronounced</phrase>
+	<phrase weight="0.002680965147453083" count="1">former seemed</phrase>
+	<phrase weight="0.002680965147453083" count="1">person dream</phrase>
+	<phrase weight="0.002680965147453083" count="1">uttered fearful</phrase>
+  </topic>
+  <topic id="15" alpha="0.3167810525821716" totalTokens="4507" titles="well, think, much, little, know, rather, make, good, n't, whether">
+	<word weight="0.02551586421122698" count="115">well</word>
+	<word weight="0.021965830929664965" count="99">think</word>
+	<word weight="0.02130019968937209" count="96">much</word>
+	<word weight="0.01730641224761482" count="78">little</word>
+	<word weight="0.015531395606833814" count="70">know</word>
+	<word weight="0.015087641446638562" count="68">rather</word>
+	<word weight="0.015087641446638562" count="68">make</word>
+	<word weight="0.01464388728644331" count="66">good</word>
+	<word weight="0.013978256046150432" count="63">n't</word>
+	<word weight="0.013312624805857555" count="60">whether</word>
+	<word weight="0.01309074772575993" count="59">never</word>
+	<word weight="0.01087197692478367" count="49">say</word>
+	<word weight="0.010650099844686045" count="48">tell</word>
+	<word weight="0.010650099844686045" count="48">jane</word>
+	<word weight="0.010206345684490793" count="46">talk</word>
+	<word weight="0.009984468604393166" count="45">better</word>
+	<word weight="0.009540714444197915" count="43">many</word>
+	<word weight="0.008875083203905036" count="40">master</word>
+	<word weight="0.00865320612380741" count="39">liked</word>
+	<word weight="0.008209451963612158" count="37">thought</word>
+	<phrase weight="0.005893909626719057" count="3">well enough</phrase>
+	<phrase weight="0.003929273084479371" count="2">talk little</phrase>
+	<phrase weight="0.003929273084479371" count="2">liked best</phrase>
+	<phrase weight="0.003929273084479371" count="2">liked whether</phrase>
+	<phrase weight="0.003929273084479371" count="2">n't think</phrase>
+	<phrase weight="0.003929273084479371" count="2">things good</phrase>
+	<phrase weight="0.003929273084479371" count="2">ask question</phrase>
+	<phrase weight="0.0019646365422396855" count="1">masters trouble inquire whether</phrase>
+	<phrase weight="0.0019646365422396855" count="1">elected involuntary</phrase>
+	<phrase weight="0.0019646365422396855" count="1">calculated rather</phrase>
+	<phrase weight="0.0019646365422396855" count="1">n't better</phrase>
+	<phrase weight="0.0019646365422396855" count="1">ever free</phrase>
+	<phrase weight="0.0019646365422396855" count="1">much friendship hurt marked omission much hurt</phrase>
+	<phrase weight="0.0019646365422396855" count="1">trouble effected</phrase>
+	<phrase weight="0.0019646365422396855" count="1">approved absolved</phrase>
+	<phrase weight="0.0019646365422396855" count="1">know ma'am</phrase>
+	<phrase weight="0.0019646365422396855" count="1">much annoyance caused</phrase>
+	<phrase weight="0.0019646365422396855" count="1">wished turn</phrase>
+	<phrase weight="0.0019646365422396855" count="1">tired little feel sleep n't</phrase>
+	<phrase weight="0.0019646365422396855" count="1">secrets analyse</phrase>
+  </topic>
+  <topic id="16" alpha="0.14890647690844844" totalTokens="3315" titles="still, trees, sky, wild, moon, flowers, wind, road, air, hill">
+	<word weight="0.013574660633484163" count="45">still</word>
+	<word weight="0.011161387631975868" count="37">trees</word>
+	<word weight="0.010256410256410256" count="34">sky</word>
+	<word weight="0.009351432880844645" count="31">wild</word>
+	<word weight="0.00904977375565611" count="30">moon</word>
+	<word weight="0.008748114630467572" count="29">flowers</word>
+	<word weight="0.008748114630467572" count="29">wind</word>
+	<word weight="0.008144796380090498" count="27">road</word>
+	<word weight="0.007541478129713424" count="25">air</word>
+	<word weight="0.007239819004524887" count="24">hill</word>
+	<word weight="0.007239819004524887" count="24">rising</word>
+	<word weight="0.007239819004524887" count="24">round</word>
+	<word weight="0.0069381598793363496" count="23">green</word>
+	<word weight="0.0069381598793363496" count="23">wood</word>
+	<word weight="0.0069381598793363496" count="23">sweet</word>
+	<word weight="0.0069381598793363496" count="23">rain</word>
+	<word weight="0.0069381598793363496" count="23">high</word>
+	<word weight="0.006636500754147813" count="22">blue</word>
+	<word weight="0.006636500754147813" count="22">dark</word>
+	<word weight="0.006636500754147813" count="22">lay</word>
+	<phrase weight="0.004415011037527594" count="2">fresh air</phrase>
+	<phrase weight="0.004415011037527594" count="2">full trees</phrase>
+	<phrase weight="0.004415011037527594" count="2">turned angle</phrase>
+	<phrase weight="0.004415011037527594" count="2">rising moon</phrase>
+	<phrase weight="0.002207505518763797" count="1">expanse sky dark blue twilight rising sky</phrase>
+	<phrase weight="0.002207505518763797" count="1">among sweet</phrase>
+	<phrase weight="0.002207505518763797" count="1">air space</phrase>
+	<phrase weight="0.002207505518763797" count="1">impassable roads prevented</phrase>
+	<phrase weight="0.002207505518763797" count="1">crushed blowing roses</phrase>
+	<phrase weight="0.002207505518763797" count="1">gave dim</phrase>
+	<phrase weight="0.002207505518763797" count="1">hills sweet heath rush sky stainless blue stream descending</phrase>
+	<phrase weight="0.002207505518763797" count="1">nests enclosing</phrase>
+	<phrase weight="0.002207505518763797" count="1">clung round</phrase>
+	<phrase weight="0.002207505518763797" count="1">heath deep lay</phrase>
+	<phrase weight="0.002207505518763797" count="1">chimneys clouds smoke argued</phrase>
+	<phrase weight="0.002207505518763797" count="1">void still blue sky halcyon sunshine</phrase>
+	<phrase weight="0.002207505518763797" count="1">rush hedge</phrase>
+	<phrase weight="0.002207505518763797" count="1">road lay</phrase>
+	<phrase weight="0.002207505518763797" count="1">weather beaten</phrase>
+	<phrase weight="0.002207505518763797" count="1">distance road</phrase>
+  </topic>
+  <topic id="17" alpha="0.18774945390379866" totalTokens="2815" titles="mrs fairfax, mrs reed, miss, jane, eyre, ingram, temple, lady, called, sir">
+	<word weight="0.06714031971580817" count="189">miss</word>
+	<word weight="0.05364120781527531" count="151">mrs</word>
+	<word weight="0.03197158081705151" count="90">fairfax</word>
+	<word weight="0.03161634103019538" count="89">reed</word>
+	<word weight="0.02557726465364121" count="72">jane</word>
+	<word weight="0.023090586145648313" count="65">eyre</word>
+	<word weight="0.022735346358792183" count="64">ingram</word>
+	<word weight="0.015985790408525755" count="45">temple</word>
+	<word weight="0.014564831261101243" count="41">lady</word>
+	<word weight="0.014209591474245116" count="40">called</word>
+	<word weight="0.012433392539964476" count="35">sir</word>
+	<word weight="0.012078152753108348" count="34">brocklehurst</word>
+	<word weight="0.01172291296625222" count="33">rochester</word>
+	<word weight="0.011012433392539964" count="31">adele</word>
+	<word weight="0.010657193605683837" count="30">grace</word>
+	<word weight="0.00994671403197158" count="28">master</word>
+	<word weight="0.009236234458259326" count="26">remember</word>
+	<word weight="0.009236234458259326" count="26">heard</word>
+	<word weight="0.008880994671403197" count="25">poole</word>
+	<word weight="0.008880994671403197" count="25">woman</word>
+	<phrase weight="0.08413461538461539" count="35">mrs fairfax</phrase>
+	<phrase weight="0.0673076923076923" count="28">mrs reed</phrase>
+	<phrase weight="0.04326923076923077" count="18">miss temple</phrase>
+	<phrase weight="0.038461538461538464" count="16">miss ingram</phrase>
+	<phrase weight="0.02403846153846154" count="10">miss eyre</phrase>
+	<phrase weight="0.021634615384615384" count="9">miss miller</phrase>
+	<phrase weight="0.019230769230769232" count="8">miss scatcherd</phrase>
+	<phrase weight="0.014423076923076924" count="6">grace poole</phrase>
+	<phrase weight="0.01201923076923077" count="5">jane eyre</phrase>
+	<phrase weight="0.009615384615384616" count="4">mrs poole</phrase>
+	<phrase weight="0.009615384615384616" count="4">miss abbot</phrase>
+	<phrase weight="0.007211538461538462" count="3">miss jane</phrase>
+	<phrase weight="0.007211538461538462" count="3">young ladies</phrase>
+	<phrase weight="0.007211538461538462" count="3">miss smith</phrase>
+	<phrase weight="0.004807692307692308" count="2">misses eshton</phrase>
+	<phrase weight="0.004807692307692308" count="2">miss georgiana</phrase>
+	<phrase weight="0.004807692307692308" count="2">miss reed</phrase>
+	<phrase weight="0.004807692307692308" count="2">read miss miller</phrase>
+	<phrase weight="0.004807692307692308" count="2">mrs rochester</phrase>
+	<phrase weight="0.004807692307692308" count="2">mrs dent</phrase>
+  </topic>
+  <topic id="18" alpha="0.15178927857016616" totalTokens="2422" titles="seemed, even, though, mind, felt, ever, nature, mine, idea, become">
+	<word weight="0.02436003303055326" count="59">seemed</word>
+	<word weight="0.022708505367464906" count="55">even</word>
+	<word weight="0.022295623451692816" count="54">though</word>
+	<word weight="0.018579686209744012" count="45">mind</word>
+	<word weight="0.01568951279933939" count="38">felt</word>
+	<word weight="0.01568951279933939" count="38">ever</word>
+	<word weight="0.0152766308835673" count="37">nature</word>
+	<word weight="0.013625103220478944" count="33">mine</word>
+	<word weight="0.010734929810074319" count="26">idea</word>
+	<word weight="0.01032204789430223" count="25">become</word>
+	<word weight="0.00990916597853014" count="24">offer</word>
+	<word weight="0.009496284062758051" count="23">presence</word>
+	<word weight="0.008670520231213872" count="21">character</word>
+	<word weight="0.007844756399669695" count="19">nothing</word>
+	<word weight="0.007431874483897605" count="18">expressed</word>
+	<word weight="0.007431874483897605" count="18">comfort</word>
+	<word weight="0.007018992568125516" count="17">glance</word>
+	<word weight="0.007018992568125516" count="17">quiet</word>
+	<word weight="0.007018992568125516" count="17">times</word>
+	<word weight="0.006606110652353427" count="16">thoughts</word>
+	<phrase weight="0.0038461538461538464" count="1">increased modest</phrase>
+	<phrase weight="0.0038461538461538464" count="1">partly instinct way</phrase>
+	<phrase weight="0.0038461538461538464" count="1">though presence</phrase>
+	<phrase weight="0.0038461538461538464" count="1">announcement seemed</phrase>
+	<phrase weight="0.0038461538461538464" count="1">extreme pallor</phrase>
+	<phrase weight="0.0038461538461538464" count="1">even direct</phrase>
+	<phrase weight="0.0038461538461538464" count="1">position employment pitied</phrase>
+	<phrase weight="0.0038461538461538464" count="1">bid bon</phrase>
+	<phrase weight="0.0038461538461538464" count="1">ease comfort</phrase>
+	<phrase weight="0.0038461538461538464" count="1">want dissipation</phrase>
+	<phrase weight="0.0038461538461538464" count="1">deferential quiet</phrase>
+	<phrase weight="0.0038461538461538464" count="1">times sadly</phrase>
+	<phrase weight="0.0038461538461538464" count="1">absorbed spectators</phrase>
+	<phrase weight="0.0038461538461538464" count="1">times severe</phrase>
+	<phrase weight="0.0038461538461538464" count="1">endowed force</phrase>
+	<phrase weight="0.0038461538461538464" count="1">glance sometimes</phrase>
+	<phrase weight="0.0038461538461538464" count="1">mind merit severe</phrase>
+	<phrase weight="0.0038461538461538464" count="1">bar approach might</phrase>
+	<phrase weight="0.0038461538461538464" count="1">kindness seemed</phrase>
+	<phrase weight="0.0038461538461538464" count="1">fellow servants</phrase>
+  </topic>
+  <topic id="19" alpha="0.16166730453319264" totalTokens="2446" titles="every, moment, felt, heart, turned, thought, made, eye, feeling, still">
+	<word weight="0.026573998364677023" count="65">every</word>
+	<word weight="0.022485690923957483" count="55">moment</word>
+	<word weight="0.020032706459525755" count="49">felt</word>
+	<word weight="0.01839738348323794" count="45">heart</word>
+	<word weight="0.015126737530662305" count="37">turned</word>
+	<word weight="0.014717906786590351" count="36">thought</word>
+	<word weight="0.013900245298446443" count="34">made</word>
+	<word weight="0.01349141455437449" count="33">eye</word>
+	<word weight="0.013082583810302535" count="32">feeling</word>
+	<word weight="0.011856091578086671" count="29">still</word>
+	<word weight="0.011447260834014717" count="28">within</word>
+	<word weight="0.010220768601798855" count="25">present</word>
+	<word weight="0.009811937857726901" count="24">effort</word>
+	<word weight="0.009403107113654947" count="23">passion</word>
+	<word weight="0.008994276369582993" count="22">point</word>
+	<word weight="0.008994276369582993" count="22">interest</word>
+	<word weight="0.008585445625511038" count="21">lay</word>
+	<word weight="0.008176614881439084" count="20">excited</word>
+	<word weight="0.007358953393295176" count="18">fear</word>
+	<word weight="0.007358953393295176" count="18">blood</word>
+	<phrase weight="0.007547169811320755" count="2">within yard</phrase>
+	<phrase weight="0.007547169811320755" count="2">every effort</phrase>
+	<phrase weight="0.007547169811320755" count="2">every nerve</phrase>
+	<phrase weight="0.0037735849056603774" count="1">thought made</phrase>
+	<phrase weight="0.0037735849056603774" count="1">feeling every association made</phrase>
+	<phrase weight="0.0037735849056603774" count="1">predominated fear received frantic</phrase>
+	<phrase weight="0.0037735849056603774" count="1">turned point mine followed</phrase>
+	<phrase weight="0.0037735849056603774" count="1">powers sitting</phrase>
+	<phrase weight="0.0037735849056603774" count="1">doubtless independence</phrase>
+	<phrase weight="0.0037735849056603774" count="1">impetus thrust point</phrase>
+	<phrase weight="0.0037735849056603774" count="1">experienced amidst</phrase>
+	<phrase weight="0.0037735849056603774" count="1">victim followed</phrase>
+	<phrase weight="0.0037735849056603774" count="1">habitual sadness</phrase>
+	<phrase weight="0.0037735849056603774" count="1">late doubtless</phrase>
+	<phrase weight="0.0037735849056603774" count="1">profusely recesses</phrase>
+	<phrase weight="0.0037735849056603774" count="1">died away</phrase>
+	<phrase weight="0.0037735849056603774" count="1">still eye</phrase>
+	<phrase weight="0.0037735849056603774" count="1">iron thrust depths</phrase>
+	<phrase weight="0.0037735849056603774" count="1">fear fettered depths fear persuaded</phrase>
+	<phrase weight="0.0037735849056603774" count="1">ire desperate</phrase>
+  </topic>
+</topics>
