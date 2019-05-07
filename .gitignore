@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 __pychache__/*.pyc
+topic_models/*
+db/*
+moby-chapter-pairs.csv
