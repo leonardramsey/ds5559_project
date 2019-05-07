@@ -5,4 +5,5 @@ __pycache__/
 __pychache__/*.pyc
 topic_models/*
 db/*
+course_notes/*
 moby-chapter-pairs.csv
